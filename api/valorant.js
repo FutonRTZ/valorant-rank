@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const riotId = "Tsumugi";
+  const riotId = "Noble Six";
   const tag = "3959";
   const region = "eu";
   const platform = "pc";
