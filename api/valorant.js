@@ -42,7 +42,7 @@ export default async function handler(req, res) {
 
     res.setHeader("Content-Type", "text/plain; charset=utf-8");
     res.status(200).send(
-      `Tsumugi#3959 - ${rank} - ${rr} RR | Dernière ranked : ${signe}${change} RR`
+      `Noble Six#3959 - ${rank} - ${rr} RR | Dernière ranked : ${signe}${change} RR`
     );
 
   } catch (e) {
